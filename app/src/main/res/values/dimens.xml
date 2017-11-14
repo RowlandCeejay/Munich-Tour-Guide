@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Height of each list item -->
+    <dimen name="list_item_size">90dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+
+    <dimen name="normal_text_size">18sp</dimen>
+    <dimen name="Name_text_size">30sp</dimen>
+    <dimen name="image_height">250dp</dimen>
+    <dimen name="normal_padding">16dp</dimen>
+    <dimen name="list_text_zero">0dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+
+
+
+
+
+</resources>

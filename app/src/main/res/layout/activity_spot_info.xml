@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/scrollStyle"
+    android:background="@drawable/munich_sticker">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/spot_info_image"
+        style="@style/SpotImageStyle"
+        android:contentDescription="@string/app_name"/>
+
+    <TextView
+        android:id="@+id/spot_info_text_name"
+        style="@style/CategoryStyle"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <TextView
+        android:id="@+id/spot_info_text_address"
+        style="@style/CategoryStyle"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <TextView
+        android:id="@+id/spot_info_text_information"
+        style="@style/NormalTextStyle"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <Button
+        android:id="@+id/map_button"
+        style="@style/mapButtonStyle"
+        android:background="@color/bavarian_color"
+        android:drawableTop="@drawable/ic_map_white_24dp"
+        android:text="@string/map_text"/>
+
+</LinearLayout>
+</ScrollView>

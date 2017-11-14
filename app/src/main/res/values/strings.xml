@@ -1,0 +1,266 @@
+<resources>
+
+    <string name="app_name">Munich-Tour-Guide</string>
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_industry">Industry</string>
+    <string name="category_culture">Culture</string>
+
+    <string name="spot_info_name">Spot Name</string>
+    <string name="spot_info_address">Spot Address</string>
+    <string name="spot_text_info">Spot Information</string>
+    <string name="spot_info_image">Spot Image</string>
+    <string name="spot_info_location">Spot Location</string>
+
+    <string name="map_text">Map</string>
+
+    <string name="cul_altes_rathaus_name">Old Town Hall, Munich</string>
+    <string name="cul_altes_rathaus_add">Marienplatz 15, 80331 Munich</string>
+    <string name="cul_altes_rathaus_info">The Old Town Hall, until 1874 the domicile of the municipality, serves today as a building for representative purposes for the city council in Munich. The Old Town Hall bounds the central square Marienplatz on its east side.</string>
+    <string name="cul_altes_rathaus_location">LAT:48.1367780 LONG:11.5769880</string>
+
+    <string name="cul_andechser_name">Andechser am Dom</string>
+    <string name="cul_andechser_add">Weinstraße 7A, 80333 München</string>
+    <string name="cul_andechser_info">Large restaurant and beer hall of a monastery brewery, offering hearty Bavarian dishes and a terrace.</string>
+    <string name="cul_andechser_location">LAT:48.1382580 LONG:11.5750670</string>
+
+    <string name="cul_bavarian_sausage_name">Nuernberger Bratwurst Gloeckl am Dom</string>
+    <string name="cul_bavarian_sausage_add">Frauenplatz 9, 80331 München</string>
+    <string name="cul_bavarian_sausage_info">Bavarian Sausage is a cultural Bavarian food that can be eating in Nuernberger Bratwurst Gloeckl am Dom in Munich. </string>
+    <string name="cul_bavarian_sausage_location">LAT:48.1381300 LONG:11.5741400</string>
+
+    <string name="cul_nationalmuseum_name">Bavarian National Museum</string>
+    <string name="cul_nationalmuseum_add"> Prinzregentenstraße 3, 80538 München</string>
+    <string name="cul_nationalmuseum_info">The Bavarian National Museum in Munich is one of the most important museums of decorative arts in Europe and one of the largest art museums in Germany.</string>
+    <string name="cul_nationalmuseum_location">LAT:48.1431280 LONG:11.5906390</string>
+
+    <string name="cul_fruhlingsfest_name">SpringFest Munich</string>
+    <string name="cul_fruhlingsfestl_add">Theresienhöhe 16, 80339 München</string>
+    <string name="cul_fruhlingsfest_info">The Spring Fair is a smaller version of the Oktoberfest and takes place in April in Munich.</string>
+    <string name="cul_fruhlingsfest_location">LAT:48.1298360 LONG:11.5444700</string>
+
+    <string name="cul_beer_garden_name">Hofbrau Beer Garden Munich</string>
+    <string name="cul_beer_garden_add">Platzl 9, 80331 München</string>
+    <string name="cul_beer_garden_info">Set under a thick shelter of ancient chestnut trees and surrounded by the historic walls of the Hofbräuhaus, is the summer meeting place for all who wish to escape the hustle and bustle of the city.</string>
+    <string name="cul_beer_garden_location">LAT:48.1378090 LONG:11.5802290</string>
+
+    <string name="cul_kulturzentrum_name">Gasteig Cultural Center</string>
+    <string name="cul_kulturzentrum_add">Rosenheimer Str. 5, 81667 München</string>
+    <string name="cul_kulturzentrum_info">Gasteig is a cultural center in Munich, opened in 1985, which hosts the Munich Philharmonic Orchestra. The Richard Strauss Conservatory, the Volkshochschule, and the municipal library are all located in the Gasteig. </string>
+    <string name="cul_kulturzentrum_location">LAT:48.1312940 LONG:11.5912180</string>
+
+    <string name="cul_maximilianeum_name">Maximilianeum</string>
+    <string name="cul_maximilianeum_add">Max-Planck-Straße 1, 81675 München</string>
+    <string name="cul_maximilianeum_info">The Maximilianeum, a palatial building in Munich, was built as the home of a gifted students foundation and has also housed the Bavarian Landtag since 1949. The principal was King Maximilian II of Bavaria, who started the project in 1857.</string>
+    <string name="cul_maximilianeum_location">LAT:48.1361300 LONG:11.5941900</string>
+
+    <string name="cul_oktoberfest_name">Munich Oktoberfest</string>
+    <string name="cul_oktoberfest_add">Matthias-Pschorr-Straße 4, 80339 München</string>
+    <string name="cul_oktoberfest_info">Oktoberfest is the world largest Volksfest (beer festival and travelling funfair). Held annually in Munich, Bavaria, Germany, it is a 16- to 18-day folk festival running from mid or late September to the first weekend in October, with more than 6 million people from around the world attending the event every year. Locally, it is often called the Wiesn, after the colloquial name for the fairgrounds, Theresa Fields (Theresienwiese). </string>
+    <string name="cul_oktoberfest_location">LAT48.1320930 LONG:11.5472040</string>
+
+    <string name="cul_rat_house_name">Rathaus Glockenspiel</string>
+    <string name="cul_rat_house_add">Marienplatz 8, 80331 München</string>
+    <string name="cul_rat_house_info">The Rathaus Glockenspiel of Munich is a tourist attraction and cultural center hub in Marienplatz, the heart of Munich. Part of the second construction phase of the New Town Hall, it dates from 1908. Every day at 11 a.m. and 12 p.m. (as well as 5 p.m. in summer) it chimes and re-enacts two stories from the 16th century to the amusement of mass crowds of tourists and locals. It consists of 43 bells and 32 life-sized figures.</string>
+    <string name="cul_rat_house_location">LAT:48.1377940 LONG:11.5759880</string>
+
+    <string name="cul_ratskeller_name">Ratskeller </string>
+    <string name="cul_ratskeller_add">Marienplatz 8, 80331 München</string>
+    <string name="cul_ratskeller_info">Large cellar restaurant dating from the 19th century, with regional dishes and classic decor.</string>
+    <string name="cul_ratskeller_location">LAT:48.1377940 LONG:11.5759880</string>
+
+    <string name="cul_alten_markt_name">Zum Alten Markt</string>
+    <string name="cul_alten_markt_add">Dreifaltigkeitspl. 3, 80331 München</string>
+    <string name="cul_alten_markt_info">Refined Bavarian food and Spaten beer served in a cozy 18th-century dining room with attached garden.</string>
+    <string name="cul_alten_markt_location">LAT:48.1352920 LONG:11.5776450</string>
+
+    <string name="cul_zum_durnbrau_name">Zum Dürnbräu</string>
+    <string name="cul_zum_durnbrau_add">Dürnbräugasse 2, 80331 München</string>
+    <string name="cul_zum_durnbrau_info">Bavarian restaurant and beer hall of the Medieval brewery, with wood-panelled walls and classic dishes.</string>
+    <string name="cul_zum_durnbrau_location">LAT:48.1362690 LONG:11.5801610</string>
+
+
+
+    <string name="ind_google_name">Google Munich</string>
+    <string name="ind_google_add">Erika-Mann-Straße 33, 80636 München</string>
+    <string name="ind_google_info">Munich Googlers solve technological and business challenges that affect over a billion users. In a city known as a hub for business and innovation, our engineers helped develop popular products like Chrome and Google Dashboard, while our sales team partners with advertisers and supports Enterprise customers. Passionate and motivated people, we encourage collaboration through weekly group lunches and energetic games of foosball. Outside the office, we take advantage of the arts and access to the outdoors that make Munich one of the world’s most livable cities.</string>
+    <string name="ind_google_location">LAT:48.1428950 LONG:11.5409160</string>
+
+    <string name="ind_bmw_group_name">BMW Group</string>
+    <string name="ind_bmw_group_add">Petuelring 130, 80809 München</string>
+    <string name="ind_bmw_group_info">Bayerische Motoren Werke AG, usually known under its abbreviation BMW, is a German luxury vehicle, motorcycle, and engine manufacturing company founded in 1916. It is one of the best-selling luxury automakers in the world.</string>
+    <string name="ind_bmw_group_location">LAT:48.1769000 LONG:11.5613400</string>
+
+    <string name="ind_airBus_name">Airbus Group</string>
+    <string name="ind_airBus_add">Willy-Messerschmitt-Straße, 85521 Ottobrunn</string>
+    <string name="ind_airBus_info">Airbus is an international pioneer in the aerospace industry. We are a leader in designing, manufacturing and delivering aerospace products, services and solutions to customers on a global scale. We aim for a better-connected, safer and more prosperous world.</string>
+    <string name="ind_airBus_location">LAT:48.0459300 LONG:11.6587440</string>
+
+    <string name="ind_mtu_name">MTU Aero Engines AG</string>
+    <string name="ind_mtu_add">Dachauer Str. 665, 80995 München</string>
+    <string name="ind_mtu_info">MTU Aero Engines AG is a German aircraft engine manufacturer. MTU develops, manufactures and provides service support for military and civil aircraft engines. MTU Aero Engines was formerly known as MTU München.</string>
+    <string name="ind_mtu_location">LAT:48.2149270 LONG:11.4769810</string>
+
+    <string name="ind_allianz_name">Allianz Insurance</string>
+    <string name="ind_allianz_add">Fritz-Schäffer-Straße 9, 81737 München</string>
+    <string name="ind_allianz_info"> Allianz is an international financial services provider, Allianz offers over 86 million customers worldwide products and solutions in insurance and asset management.</string>
+    <string name="ind_allianz_location">LAT:48.1046110 LONG:11.6447970</string>
+
+    <string name="ind_amgen_name">Amgen Munich</string>
+    <string name="ind_amgen_add">Riesstraße 24, 80992 München</string>
+    <string name="ind_amgen_info">Amgen is the worlds largest independent biotechnology company. At more than 75 locations in the Americas, Europe and Asia, Amgen employees are convinced that biotechnology has the potential to treat invaluable diseases. The ambitious goal of helping patients, combined with scientific curiosity, creativity and passion, ensure a high degree of motivation.</string>
+    <string name="ind_amgen_location">LAT:48.1788230 LONG:11.5378430</string>
+
+    <string name="ind_audi_name">Audi Group Munich</string>
+    <string name="ind_audi_add">Hochstraße 15, 81669 München</string>
+    <string name="ind_audi_info">Audi is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. Audi is a member of the Volkswagen Group and has its roots at Ingolstadt, Bavaria, Germany. Audi-branded vehicles are produced in nine production facilities worldwide.</string>
+    <string name="ind_audi_location">LAT:48.1282300 LONG:11.5893110</string>
+
+    <string name="ind_microsoft_name">Microsoft Munich</string>
+    <string name="ind_microsoft_add">Walter-Gropius-Straße 5, 80807 München</string>
+    <string name="ind_microsoft_info">The Microsoft Technology Center is an inspiring think tank for customers, partners and Microsoft. Together we envision how Microsoft technology can empower your business and how to achieve more in a world which is driven by continuous innovations.</string>
+    <string name="ind_microsoft_location">LAT:48.1780440 LONG:11.5939850</string>
+
+    <string name="ind_ibm_name">IBM Munich</string>
+    <string name="ind_ibm_add">Hollerithstraße 1, 81829 München</string>
+    <string name="ind_ibm_info">IBM (International Business Machines Corporation) is an American multinational technology company headquartered in Armonk, New York, United States, with operations in over 170 countries. The company originated in 1911 as the Computing-Tabulating-Recording Company (CTR) and was renamed "International Business Machines" in 1924.</string>
+    <string name="ind_ibm_location">LAT:48.1351800 LONG:11.6709400</string>
+
+    <string name="ind_avnet_name">Avnet Logistics Poing Munich</string>
+    <string name="ind_avnet_add">Gruber Str. 60, 85586 Poing</string>
+    <string name="ind_avnet_info">Avnet EMEA is the leading technical distributor, offering electronic components such as semiconductors, interconnect, passive, electromechanical from leading manufacturers, supported by an exceptional technical, logistic and supply chain service.</string>
+    <string name="ind_avnet_location">LAT:48.1707570 LONG:11.8001090</string>
+
+    <string name="ind_gsk_name">GSK </string>
+    <string name="ind_gsk_add">Prinzregentenpl. 9, 81675 München</string>
+    <string name="ind_gsk_info"> GlaxoSmithKline plc (GSK) is a British pharmaceutical company headquartered in Brentford, London. Established in 2000 by a merger of Glaxo Wellcome and SmithKline Beecham, GSK was the world sixth largest pharmaceutical company as of 2015, after Pfizer, Novartis, Merck, Hoffmann-La Roche and Sanofi.</string>
+    <string name="ind_gsk_location">LAT:48.1399420 LONG:11.6054580</string>
+
+    <string name="ind_advantech_name">Advantech Dlog</string>
+    <string name="ind_advantech_add"> Industriestraße 15, 82110 Germering</string>
+    <string name="ind_advantech_info">Advantech-DLoG is the leading manufacturer of high-end industrial PCs for Intralogistics, heavy duty, fleet management and industrial manufacturing.</string>
+    <string name="ind_advantech_location">LAT:48.1319810 LONG:11.3780830</string>
+
+
+
+    <string name="hot_azimut_name">Azimut Hotel</string>
+    <string name="hot_azimut_add">Kronstadter Str. 8, 81677 München</string>
+    <string name="hot_azimut_info">This modern hotel is 5 km from Messe Münchens convention center, 6 km from Viktualienmarkt 200-year-old maket and 7 km from Marienplatz central square. </string>
+    <string name="hot_azimut_location">LAT:48.1370160 LONG:11.6484970</string>
+
+    <string name="hot_bold_name">Bold Hotel</string>
+    <string name="hot_bold_add">Aschauer Str. 12, 81549 München</string>
+    <string name="hot_bold_info">Set on the outskirts of Munich, this upscale hotel is 10 minutes walk from Giesing U-Bahn station, 4.4 km from Hofbräuhaus am Platzl (3-floor, 16th-century beer hall) and 4.8 km from Marienplatz square.</string>
+    <string name="hot_bold_location">LAT:48.1063720 LONG:11.6001060</string>
+
+    <string name="hot_cYard_name">Courtyard by Marriott Hotel</string>
+    <string name="hot_cYard_add"> Orleansstraße 81 and 83, 81667 München</string>
+    <string name="hot_cYard_info">Set in the vibrant Haidhausen district, this modern hotel is a 5-minute walk from the Ostbahnhof train station and 2.6 km from the Hofbräuhaus am Platzl beer hall. </string>
+    <string name="hot_cYard_location">LAT:48.1312370 LONG:11.6078850</string>
+
+    <string name="hot_hilton_name">Hilton Munich City</string>
+    <string name="hot_hilton_add">Rosenheimer Str. 15, 81667 München</string>
+    <string name="hot_hilton_info">In Munich entertainment district, next to the München Rosenheimer Platz S-Bahn train station, this relaxed hotel is also 2.1 km from shopping at Marienplatz. </string>
+    <string name="hot_hilton_location">LAT:48.1299440 LONG:11.5928580</string>
+
+    <string name="hot_meridien_name">Le_Meridien Hotel</string>
+    <string name="hot_meridien_add">Bayerstraße 41, 80335 München</string>
+    <string name="hot_meridien_info">This chic hotel is 1.7 km from Marienplatz and 3.2 km from the Deutsches Museum of Science and Technology.</string>
+    <string name="hot_meridien_location">LAT:48.1386600 LONG:11.5577000</string>
+
+    <string name="hot_leonardo_name">Leonardo Hotel</string>
+    <string name="hot_leonardo_add">Carl-Wery-Straße 39, 81739 München</string>
+    <string name="hot_leonardo_info">Showcasing a terrace and fitness center, Leonardo Hotel Munich City East is located in Munich. Guests can enjoy the on-site bar. Private parking is available on site.</string>
+    <string name="hot_leonardo_location">LAT:48.0868520 LONG:11.6451440</string>
+
+    <string name="hot_mercure_name">Mercure Hotel</string>
+    <string name="hot_mercure_add">Rudolf-Vogel-Bogen 3, 81739 München</string>
+    <string name="hot_mercure_info">A 4 minutes walk from Therese-Giehse-Allee U-Bahn station, this modern hotel is set in a redbrick building and is 10 km from Marienplatz and 12.7 km from the Oktoberfest fairgrounds. </string>
+    <string name="hot_mercure_location">LAT:48.0919990 LONG:11.6443570</string>
+
+    <string name="hot_palace_name">Meunchen Palace Hotel</string>
+    <string name="hot_palace_add">Trogerstraße 21, 81675 München</string>
+    <string name="hot_palace_info">In the upscale Bogenhausen quarter, a 2-minute walk from the Museum Villa Stuck (devoted to the work of painter Franz Stuck), this posh hotel is also 6 minutes from Prinzregentenplatz U-Bahn station and 2.8 km from the English Garden.</string>
+    <string name="hot_palace_location">LAT:48.1400080 LONG:11.6012160</string>
+
+    <string name="hot_nh_name">NH Hotel</string>
+    <string name="hot_nh_add">Ottobrunner Str. 17 to 19, 81737 München</string>
+    <string name="hot_nh_info">This straightforward hotel is 1.3 km from Karl-Preis-Platz U-Bahn station and 6 km from Tierpark Hellabrunn zoo. </string>
+    <string name="hot_nh_location">LAT:48.1112600 LONG:11.6182300</string>
+
+    <string name="hot_sheraton_name">Sheraton Hotel</string>
+    <string name="hot_sheraton_add">Arabellastraße 5, 81925 München</string>
+    <string name="hot_sheraton_info">A 5-minute walk from the Arabellapark subway station, this modern hotel in a sleek high-rise building is 6 km from the Hofbräuhaus am Platzl beer hall and 2.6 km from the English Garden. </string>
+    <string name="hot_sheraton_location">LAT:48.1511750 LONG:11.6184490</string>
+
+
+    <string name="landMk_allianz_arena_name">Allianz Arena</string>
+    <string name="landMk_allianz_arena_add">Werner-Heisenberg-Allee 25, 80939 München</string>
+    <string name="landMk_allianz_arena_info">The Allianz Arena is a football stadium in Munich, Bavaria, Germany with a 75,000 seating capacity. Widely known for its exterior of inflated ETFE plastic panels, it is the first stadium in the world with a full colour changing exterior.</string>
+    <string name="landMk_allianz_arena_location">LAT:48.2185940 LONG:11.6239700</string>
+
+    <string name="landMk_angel_of_peace_name">Angel Of Peace</string>
+    <string name="landMk_angel_of_peace_add">Prinzregentenstraße, 81675 München</string>
+    <string name="landMk_angel_of_peace_info"> The Angel of Peace is a monument in the Munich suburb of Bogenhausen. The architects were Heinrich Düll, Georg Pezold und Max Heilmaier.</string>
+    <string name="landMk_angel_of_peace_location">LAT:48.1398110 LONG:11.6044460</string>
+
+    <string name="landMk_bavaria_statue_name">Bavaria Statue</string>
+    <string name="landMk_bavaria_statue_add">Theresienhöhe 16, 80339 München</string>
+    <string name="landMk_bavaria_statue_info"> Bavaria is the name given to a monumental, bronze sand-cast 19th-century statue in Munich, southern Germany. It is a female personification of the Bavarian homeland, and by extension its strength and glory.</string>
+    <string name="landMk_bavaria_statue_location">LAT:48.1298360 LONG:11.5444700</string>
+
+    <string name="landMk_bmw_museum_name">BMW Museum</string>
+    <string name="landMk_bmw_museum_add">Am Olympiapark 2, 80809 München</string>
+    <string name="landMk_bmw_museum_info"> The BMW Museum is an automobile museum of BMW history located near the Olympiapark in Munich, Germany. The museum was established in 1973, shortly after the Summer Olympics opened.</string>
+    <string name="landMk_bmw_museum_location">LAT:48.1767410 LONG:11.5567060</string>
+
+    <string name="landMk_frauenkirche_name">FrauenKirche</string>
+    <string name="landMk_frauenkirche_add">Frauenplatz 12, 80331 München</string>
+    <string name="landMk_frauenkirche_info">The Frauenkirche is a church in the Bavarian city of Munich that serves as the cathedral of the Archdiocese of Munich and Freising and seat of its Archbishop. It is a landmark and is considered a symbol of the Bavarian capital city. </string>
+    <string name="landMk_frauenkirche_location">LAT:48.1385990 LONG:11.5735640</string>
+
+    <string name="landMk_hofgarten_name">Hofgarten</string>
+    <string name="landMk_hofgarten_add"> Hofgartenstraße 1, 80538 München</string>
+    <string name="landMk_hofgarten_info">The Hofgarten is a garden in the center of Munich, Germany, located between the Residenz and the Englischer Garten. </string>
+    <string name="landMk_hofgarten_location">LAT:48.1425160 LONG:11.5778570</string>
+
+    <string name="landMk_karlsplatz_name">karlsplatz Stachus</string>
+    <string name="landMk_karlsplatz_add">Karlspl. 10, 80335 München</string>
+    <string name="landMk_karlsplatz_info">Stachus is a large square in central Munich, southern Germany. The square was officially named Karlsplatz in 1797 after the unpopular Charles Theodore, Elector of Bavaria. </string>
+    <string name="landMk_karlsplatz_location">LAT:48.1387920 LONG:11.5662980</string>
+
+    <string name="landMk_munich_residenz_name">Munich Residenz</string>
+    <string name="landMk_munich_residenz_add">Residenzstraße 1, 80333 München</string>
+    <string name="landMk_munich_residenz_info">The Residenz in central Munich is the former royal palace of the Wittelsbach monarchs of Bavaria. The Residenz is the largest city palace in Germany and is today open to visitors for its architecture, room decorations, and displays from the former royal collections. </string>
+    <string name="landMk_munich_residenz_location">LAT:48.1412560 LONG:11.5787190</string>
+
+    <string name="landMk_neuschwanstein_castle_name">Neuschwanstein Castle</string>
+    <string name="landMk_neuschwanstein_castle_add">Neuschwansteinstraße 20, 87645 Schwangau</string>
+    <string name="landMk_neuschwanstein_castle_info">Neuschwanstein Castle is a nineteenth-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany.  </string>
+    <string name="landMk_neuschwanstein_castle_location">LAT:47.5575120 LONG:10.7497070</string>
+
+    <string name="landMk_odeonsplatz_name">Odeonsplatz</string>
+    <string name="landMk_odeonsplatz_add">Odeonspl. 1, 80539 München</string>
+    <string name="landMk_odeonsplatz_info">The Odeonsplatz is a large square in central Munich which was developed in the early 19th century by Leo von Klenze and is at the southern end of the Ludwigstraße, developed at the same time. </string>
+    <string name="landMk_odeonsplatz_location">LAT:48.1428900 LONG:11.5771800</string>
+
+    <string name="landMk_olympia_park_name">Olympia Park</string>
+    <string name="landMk_olympia_park_add">Spiridon-Louis-Ring 21, 80809 München</string>
+    <string name="landMk_olympia_park_info">The Olympiapark München (English: Olympic Park Munich) in Munich, Germany, is an Olympic Park which was constructed for the 1972 Summer Olympics. Located in the Oberwiesenfeld neighborhood of Munich, the Park continues to serve as a venue for cultural, social, and religious events such as events of worship.  </string>
+    <string name="landMk_olympia_park_location">LAT:48.1739100 LONG:11.5487870</string>
+
+    <string name="landMk_schleissheim_palace_name">Schleissheim Palace</string>
+    <string name="landMk_schleissheim_palace_add">85764 Oberschleißheim</string>
+    <string name="landMk_schleissheim_palace_info">The Schleissheim Palace comprises three individual palaces in a grand baroque park in the village of Oberschleißheim, a suburb of Munich, Bavaria, Germany. The palace was a summer residence of the Bavarian rulers of the House of Wittelsbach. </string>
+    <string name="landMk_schleissheim_palace_location">LAT:48.2476430 LONG:11.5544350</string>
+
+    <string name="landMk_siegestor_name">Siegestor</string>
+    <string name="landMk_siegestor_add">Leopoldstraße 1, 80539 München</string>
+    <string name="landMk_siegestor_info">The Siegestor in Munich is a three-arched triumphal arch crowned with a statue of Bavaria with a lion-quadriga. The Siegestor is 21 meters high, 24 m wide, and 12 m deep.  </string>
+    <string name="landMk_siegestor_location">LAT:48.1537600 LONG:11.5836700</string>
+
+    <string name="landMk_sendlinger_tor_name">Sendlinger Tor</string>
+    <string name="landMk_sendlinger_tor_add">Sendlinger-Tor-Platz 1, 80336 München</string>
+    <string name="landMk_sendlinger_tor_info">The Sendlinger Tor is a city gate at the southern extremity of the historic old town area of Munich. It served as a fortification for the defence and is one of Munich three remaining gothic town gates. </string>
+    <string name="landMk_sendlinger_tor_location">LAT:48.1331740 LONG:11.5674450</string>
+</resources>
